@@ -7,6 +7,7 @@ touch file_name.sh
 ``
 
 then you write this line at the top of your file to identify that this is a bash code
+
 ``
 #!/bin/bash
 ``
@@ -19,8 +20,11 @@ you can add any files you want to push every time (if you wand to add all the fi
 ``
 git commit -m""
 ``
+
 and you write the messang you want to commit with
+
 ``
 git push
 ``
+
 finally you push

@@ -1,12 +1,13 @@
 # auto_push
 this commands will help you pushing every time without doing (git add, git commit, git push)
 c
-# creat file with .sh extention inthe directory that contains the files you want to push
+
+creat file with .sh extention inthe directory that contains the files you want to push
 ``
 touch file_name.sh
 ``
 
-then you write this line at the top of your file to identify that this is a bash code
+then you write this line at the top of your file to identify that this is a bash code :
 
 ``
 #!/bin/bash

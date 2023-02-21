@@ -1,6 +1,5 @@
 # auto_push
 this commands will help you pushing every time without doing (git add, git commit, git push)
-c
 
 creat file with .sh extention inthe directory that contains the files you want to push
 
@@ -18,6 +17,7 @@ then you write this line at the top of your file to identify that this is a bash
 ``
 git add
 ``
+
 you can add any files you want to push every time (if you wand to add all the files just write git add .)
 
 ``

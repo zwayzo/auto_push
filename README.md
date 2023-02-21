@@ -5,7 +5,8 @@ c
 ``
 touch file_name.sh
 ``
-the you write this line at the. top of your file to identify that this is a bash code
+
+then you write this line at the top of your file to identify that this is a bash code
 ``
 #!/bin/bash
 ``

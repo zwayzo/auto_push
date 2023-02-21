@@ -3,7 +3,7 @@ this commands will help you pushing every time without doing (git add, git commi
 c
 # creat file with .sh extention
 ``
-touch file_name.sh
+touch file_name.sh in the directory that contains the files you want to push
 ``
 the you write this line at the. top of your file to identify that this is a bash code
 ``
